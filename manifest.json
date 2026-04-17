@@ -1,0 +1,17 @@
+{
+  "short_name": "HorarioIA",
+  "name": "Gestor de Horario con IA",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2693/2693507.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#38bdf8"
+}
